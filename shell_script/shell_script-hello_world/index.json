@@ -5,26 +5,26 @@
   "time": "5-10 minutes",
   "details": {
     "intro": {
-      "text": "intro.md",
+      "text": "intro.md"
     },
     "steps": [
       {
         "title": "What's a Shell?",
-        "text": "whats_shell.md",
+        "text": "whats_shell.md"
       },
       {
         "title": "What's a Shell Script?",
-        "text": "whats_shell_script.md",
+        "text": "whats_shell_script.md"
       },
       {
         "title": "Creating Your First Bash File",
         "text": "create_file.md",
         "validate": "validations/check_file_existence.sh"
-      },
+      }
     ],
     "finish": {
       "text": "finish.md"
-    },
+    }
   },
   "environment": {
     "uilayout": "terminal-editor",
