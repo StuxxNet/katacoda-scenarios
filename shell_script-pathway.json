@@ -38,6 +38,11 @@
 			"description": "In this topic you will learn how to organize your script in functions."
 		},
 		{
+			"course_id": "shell_script-nested_scripting",
+			"title": "Shell Script - Nested Scripting",
+			"description": "In this topic you will learn how to call another Shell Script inside your Shell Script"
+		}
+		{
 			"course_id": "shell_script-challenge",
 			"title": "Shell Script - Final Challenge",
 			"description": "Time to test your knowledge acquired in the lessons behind!"
