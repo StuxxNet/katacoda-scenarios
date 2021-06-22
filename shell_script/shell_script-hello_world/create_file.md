@@ -22,7 +22,7 @@ Saw the file? Now try to open it:
 
 The first thing must inform is the interpreter, so the environment will know what's the kind of shell you are writing.
 Try to insert the following content to the file created before:
-<pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="append">
+<pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="prepand">
 #!/bin/bash
 </pre>
 
