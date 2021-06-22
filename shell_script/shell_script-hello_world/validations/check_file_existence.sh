@@ -5,6 +5,6 @@ if [ ! -s /root/shell/my_first_shell.sh ] then
 fi
 
 lines=$(wc --lines /root/shell/my_first_shell.sh)
-if [ linex  -ne 2 ] then
+if [ linex  -ne 3 ] then
 	return 2
 fi

@@ -10,6 +10,9 @@ This can be done in several different ways, but here we will make it by executin
 Now try to check if the file is created by executing the command below:
 `ll /root/shell/my_first_shell.sh`{{execute}}
 
+Saw the file? Now try to open it:
+`/root/shell/my_first_shell.sh`{{open}}
+
 ### Tips:
 ..* Don't forget to push the extansion ".sh" in the end of the name of the file;
 ..* The script **MUST** be created at **/root/shell** folder.
@@ -27,6 +30,7 @@ Once you have set your interpreter, you can start executing commands.
 Try to add the echo command below to your script:
 <pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="append">
 	echo "Hello world, this is Shell Script"
+
 </pre>
 
 By now your script must be looking like this:
