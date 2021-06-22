@@ -11,11 +11,11 @@ Now try to check if the file is created by executing the command below:
 `ll /root/shell/my_first_shell.sh`{{execute}}
 
 Saw the file? Now try to open it:
-`/root/shell/my_first_shell.sh`{{open}}
+`my_first_shell.sh`{{open}}
 
 ### Tips:
-..* Don't forget to push the extansion ".sh" in the end of the name of the file;
-..* The script **MUST** be created at **/root/shell** folder.
+- Don't forget to push the extansion ".sh" in the end of the name of the file;
+- The script **MUST** be created at **/root/shell** folder.
 
 ## Writing your First Lines of Code!
 ------
