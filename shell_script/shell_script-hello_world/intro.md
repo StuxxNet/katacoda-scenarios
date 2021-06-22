@@ -5,8 +5,8 @@ In this scenario you will learn **what are the basic concepts around the words S
 
 By the end of the activies you should be able to **understand**:
 
-..* What's Shell Script;
-..* What's a Shell;
-..* How to create a new file using Linux Terminal;
-..* How to give execution permission to the script;
-..* Execute and check the script result.
+- What's Shell Script;
+- What's a Shell;
+- How to create a new file using Linux Terminal;
+- How to give execution permission to the script;
+- Execute and check the script result.

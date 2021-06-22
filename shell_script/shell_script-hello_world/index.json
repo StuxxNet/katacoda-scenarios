@@ -1,7 +1,7 @@
 {
   "title": "Shell Script - Hello World!",
   "description": "In this topic you will learn how create you first Shell Script file.",
-  "difficulty": "beginner",
+  "difficulty": "Beginner",
   "time": "5-10 minutes",
   "details": {
     "intro": {
@@ -27,7 +27,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-editor",
+    "uilayout": "terminal-iframe",
     "uieditorpath": "/root/shell"
   },
   "backend": {

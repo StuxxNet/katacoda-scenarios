@@ -7,8 +7,8 @@ In this scenario you learned **what are the basic concepts around the words Shel
 
 Now you **understand** the following **concepts**:
 
-..* What's a shell;
-..* What's a Shell interpretor;
-..* How to create a new file using Linux Terminal;
-..* How to give execution permission to the script,
-..* Execute and check the script result.
+- What's a shell;
+- What's a Shell interpretor;
+- How to create a new file using Linux Terminal;
+- How to give execution permission to the script,
+- Execute and check the script result.
