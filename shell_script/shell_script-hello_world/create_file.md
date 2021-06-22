@@ -22,15 +22,14 @@ Saw the file? Now try to open it:
 
 The first thing must inform is the interpreter, so the environment will know what's the kind of shell you are writing.
 Try to insert the following content to the file created before:
-<pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="prepend">
-	#!/bin/bash
+<pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="append">
+#!/bin/bash
 </pre>
 
 Once you have set your interpreter, you can start executing commands.
 Try to add the echo command below to your script:
 <pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="append">
-	echo "Hello world, this is Shell Script"
-
+echo "Hello world, this is Shell Script"
 </pre>
 
 By now your script must be looking like this:
@@ -41,6 +40,7 @@ echo "Hello world, this is Shell Script"
 
 If not, you can paste the following script to your file
 <pre class="File" data-filename="/root/shell/my_first_shell.sh" data-target="replace">
-	#!/bin/bash
-	echo "Hello world, this is Shell Script"
+#!/bin/bash
+
+echo "Hello world, this is Shell Script"	
 </pre>
