@@ -1,0 +1,46 @@
+{
+    "title": "Shell Script",
+    "description": "Introduction to Shell Script. This course is intended for whom may have interest in knowing a new Linux and powerful scripting language, and being able to manage almost a whole trough it",
+    "courses": [		
+		{
+			"course_id": "shell_script-hello_world",
+			"title": "Shell Script - Hello World!",
+			"description": "In this topic you will learn how create you first Shell Script file."
+		},
+		{
+			"course_id": "shell_script-variables",
+			"title": "Shell Script - Variables",
+			"description": "In this topic you will learn how to work in variables in Shell Scripting."
+		},
+		{
+			"course_id": "shell_script-linux_commands",
+			"title": "Shell Script - Linux Commands",
+			"description": "In this topic you will learn how to include Shell Commands to your scripts."
+		},
+		{
+			"course_id": "shell_script-decisions",
+			"title": "Shell Script - Decisions",
+			"description": "In this topic you will learn how to work with 3 decisions structures: IF/ELSE, ELIF and CASE."
+		},
+		{
+			"course_id": "shell_script-repeat",
+			"title": "Shell Script - Repeat",
+			"description": "In this topic you will learn how to work with 3 loops structures: FOR, WHILE and UNTIL/DO."
+		},
+		{
+			"course_id": "shell_script-errors",
+			"title": "Shell Script - Error Management",
+			"description": "In this topic you will learn how to handle errors that can possible happen while your script is running."
+		},
+		{
+			"course_id": "shell_script-functions",
+			"title": "Shell Script - Functions",
+			"description": "In this topic you will learn how to organize your script in functions."
+		},
+		{
+			"course_id": "shell_script-challenge",
+			"title": "Shell Script - Final Challenge",
+			"description": "Time to test your knowledge acquired in the lessons behind!"
+		}
+	]
+}
