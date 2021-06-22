@@ -7,6 +7,9 @@ This can be done in several different ways, but here we will make it by executin
 
 `touch /root/shell/my_first_shell.sh`{{execute}}
 
+Now try to check if the file is created by executing the command below:
+`ll /root/shell/my_first_shell.sh`{{execute}}
+
 ### Tips:
 ..* Don't forget to push the extansion ".sh" in the end of the name of the file;
 ..* The script **MUST** be created at **/root/shell** folder.

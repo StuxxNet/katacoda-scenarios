@@ -3,10 +3,10 @@
 
 A **Shell Script** is a **computer program** designed to be run by the **Unix/Linux shell** which could be one of the following:
 
-..* The Bourne Shell
-..* The C Shell
-..* The Korn Shell
-..* The GNU Bourne-Again Shell
+- The Bourne Shell
+- The C Shell
+- The Korn Shell
+- The GNU Bourne-Again Shell
 
 The most **typical operations** performed by shell scripts include **file manipulation, program execution, and printing text**.
 
@@ -18,7 +18,7 @@ The **shell is**, after all, **a real programming language, complete with variab
 
 The following script uses the **read command** which takes the **input from the keyboard** and **assigns** it as the value of the **variable PERSON** and **finally prints it** on STDOUT.
 
-```bash
+```sh
 #!/bin/sh
 
 # Author : Zara Ali

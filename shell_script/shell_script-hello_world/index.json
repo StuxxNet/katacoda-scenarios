@@ -27,7 +27,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal-iframe",
+    "uilayout": "editor-terminal",
     "uieditorpath": "/root/shell"
   },
   "backend": {
