@@ -4,7 +4,7 @@ if [ ! -s /root/shell/my_first_shell.sh ] then
 	return 1
 fi
 
-lines=$(wc --lines /root/shell/my_first_shell.sh)
-if [ linex  -ne 3 ] then
+LINES=$(wc -l /root/shell/my_first_shell.sh | awk -F' ' '{print $1}')
+if [ LINES  -ne 3 ] then
 	return 2
 fi
