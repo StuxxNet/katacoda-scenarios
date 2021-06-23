@@ -20,7 +20,7 @@
         "title": "Creating Your First Bash File",
         "text": "steps/3_create_file.md",
         "verify": "validations/check_file_existence.sh"
-      }
+      },
       {
         "title": "Giving Executing Permission to Your Script",
         "text": "steps/4_giving_permission.md",
