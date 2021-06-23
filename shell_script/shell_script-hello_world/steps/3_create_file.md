@@ -8,7 +8,7 @@ This can be done in several different ways, but here we will make it by executin
 `touch /root/shell/my_first_shell.sh`{{execute}}
 
 Now try to check if the file is created by executing the command below:
-`ll /root/shell/my_first_shell.sh`{{execute}}
+`ls /root/shell/my_first_shell.sh`{{execute}}
 
 Saw the file? Now try to open it:
 `my_first_shell.sh`{{open}}

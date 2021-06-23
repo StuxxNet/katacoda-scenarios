@@ -10,16 +10,21 @@
     "steps": [
       {
         "title": "What's a Shell?",
-        "text": "whats_shell.md"
+        "text": "steps/1_whats_shell.md"
       },
       {
         "title": "What's a Shell Script?",
-        "text": "whats_shell_script.md"
+        "text": "steps/2_whats_shell_script.md"
       },
       {
         "title": "Creating Your First Bash File",
-        "text": "create_file.md",
+        "text": "steps/3_create_file.md",
         "verify": "validations/check_file_existence.sh"
+      }
+      {
+        "title": "Giving Executing Permission to Your Script",
+        "text": "steps/4_giving_permission.md",
+        "verify": "validations/check_file_permission.sh"
       }
     ],
     "finish": {
