@@ -10,5 +10,6 @@ Now you **understand** the following **concepts**:
 - What's a shell;
 - What's a Shell interpretor;
 - How to create a new file using Linux Terminal;
+- What are Permissions and Ownership;
 - How to give execution permission to the script,
 - Execute and check the script result.

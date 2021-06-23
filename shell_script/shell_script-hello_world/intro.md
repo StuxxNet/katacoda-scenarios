@@ -8,5 +8,6 @@ By the end of the activies you should be able to **understand**:
 - What's Shell Script;
 - What's a Shell;
 - How to create a new file using Linux Terminal;
+- What are Permissions and Ownership;
 - How to give execution permission to the script;
 - Execute and check the script result.

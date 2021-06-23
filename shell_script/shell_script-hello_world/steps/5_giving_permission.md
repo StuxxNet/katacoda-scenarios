@@ -25,10 +25,14 @@ chmod +x /root/shell/my_first_shell.sh
 
 `chmod +x /root/shell/my_first_shell.sh`{{execute}}
 
-Now try to check your file permission:
+Now try to check your file permission by typing the following command:
+
+```sh
+ls -l /root/shell/my_first_shell.sh
+```
 
 `ls -l /root/shell/my_first_shell.sh`{{execute}}
 
 Saw the difference? Your result should look like the image below. Compare your result with the image above and try to understand the differences. 
 
-![PermissionConcept](./assets/no-execution.png)
+![PermissionConcept](./assets/execution.png)
