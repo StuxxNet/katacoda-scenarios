@@ -28,6 +28,11 @@
         "title": "Giving Executing Permission to Your Script",
         "text": "steps/5_giving_permission.md",
         "verify": "validations/check_file_permission.sh"
+      },
+      {
+        "title": "Executing Your First Script",
+        "text": "steps/6_executing_script.md",
+        "verify": "validations/check_file_execution.sh"
       }
     ],
     "finish": {
