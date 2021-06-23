@@ -29,7 +29,8 @@
       "client": [
         {
           "file": "./validations/*.sh",
-          "target": "/root/tests"
+          "target": "/root/tests",
+          "chmod": "+x"
         }
       ]
     }
