@@ -1,6 +1,3 @@
-## Creating your file!
-------
-
 To start writing your **first Shell Script** you need to create the file first. 
 
 This can be done in several different ways, but here we will make it by executing the touch command.

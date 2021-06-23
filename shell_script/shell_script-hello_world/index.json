@@ -22,13 +22,25 @@
         "verify": "validations/check_file_existence.sh"
       },
       {
+        "title": "Explaining Permission and Ownership",
+        "text": "steps/4_explain_permission.md",
+      },
+      {
         "title": "Giving Executing Permission to Your Script",
-        "text": "steps/4_giving_permission.md",
+        "text": "steps/5_giving_permission.md",
         "verify": "validations/check_file_permission.sh"
       }
     ],
     "finish": {
       "text": "finish.md"
+    },
+     "assets": {
+      "client": [
+        {
+          "file": "my_file",
+          "target": "/root"
+        }
+      ],
     }
   },
   "environment": {

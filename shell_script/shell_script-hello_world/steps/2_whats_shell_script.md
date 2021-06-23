@@ -1,6 +1,3 @@
-## What's Shell Scripting?
-------
-
 A **Shell Script** is a **computer program** designed to be run by the **Unix/Linux shell** which could be one of the following:
 
 - The Bourne Shell
