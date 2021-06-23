@@ -7,8 +7,7 @@
     "intro": {
       "text": "intro.md"
     },
-    "steps": [
-      {
+    "steps": [{
         "title": "What's a Shell?",
         "text": "steps/1_whats_shell.md"
       },
@@ -23,7 +22,7 @@
       },
       {
         "title": "Explaining Permission and Ownership",
-        "text": "steps/4_explain_permission.md",
+        "text": "steps/4_explain_permission.md"
       },
       {
         "title": "Giving Executing Permission to Your Script",
@@ -34,13 +33,11 @@
     "finish": {
       "text": "finish.md"
     },
-     "assets": {
-      "client": [
-        {
-          "file": "my_file",
-          "target": "/root"
-        }
-      ],
+    "assets": {
+      "client": [{
+        "file": "my_file",
+        "target": "/root"
+      }]
     }
   },
   "environment": {
