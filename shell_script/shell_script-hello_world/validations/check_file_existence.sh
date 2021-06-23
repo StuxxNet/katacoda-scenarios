@@ -9,4 +9,4 @@ if [ "$LINES" -ne "3" ]; then
   exit 2
 fi
 
-exit 0
+echo "done"
