@@ -7,10 +7,10 @@ To execute a script you just have to call the command "bash" and pass your scrip
 For example, try to type the following command into the terminal:
 
 ```sh
-bash +x /root/shell/my_first_shell.sh
+bash /root/shell/my_first_shell.sh
 ```
 
-`bash +x /root/shell/my_first_shell.sh`{{execute}}
+`bash /root/shell/my_first_shell.sh`{{execute}}
 
 ## Result checking
 
