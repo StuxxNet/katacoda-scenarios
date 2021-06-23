@@ -19,11 +19,19 @@
       {
         "title": "Creating Your First Bash File",
         "text": "create_file.md",
-        "validate": "validations/check_file_existence.sh"
+        "validate": "/root/tests/check_file_existence.sh"
       }
     ],
     "finish": {
       "text": "finish.md"
+    },
+    "assets": {
+      "client": [
+        {
+          "file": "./validations/*.sh",
+          "target": "/root/tests"
+        }
+      ]
     }
   },
   "environment": {
