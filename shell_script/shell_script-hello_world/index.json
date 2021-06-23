@@ -25,7 +25,7 @@
         "text": "steps/4_explain_permission.md"
       },
       {
-        "title": "Giving Executing Permission to Your Script",
+        "title": "Giving Execution Permission to Your Script",
         "text": "steps/5_giving_permission.md",
         "verify": "validations/check_file_permission.sh"
       },
