@@ -2,7 +2,7 @@
   "title": "Shell Script - Hello World!",
   "description": "In this topic you will learn how create you first Shell Script file.",
   "difficulty": "Beginner",
-  "time": "5-10 minutes",
+  "time": "10-15 minutes",
   "details": {
     "intro": {
       "text": "intro.md"
