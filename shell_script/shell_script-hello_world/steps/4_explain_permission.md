@@ -26,9 +26,11 @@ A user- group can contain multiple users. **All users belonging to a group will 
 
 ![PermissionConcept](./assets/PermissionsConcept.png)
 
-Let's see file permissions in Linux with examples:
+Let's see file permissions in Linux with examples. Try to execute the following command in the terminal:
 
-ls - l on terminal gives:
+```sh
+ls - l
+``` 
 
 `ls -l /root`{{execute}}
 
